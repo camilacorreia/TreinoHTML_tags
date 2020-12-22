@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade0810_ApresentaçãoWEB", "Atividade0810_ApresentaçãoWEB\Atividade0810_ApresentaçãoWEB.csproj", "{55244A2A-002A-4804-BE9A-2BE58E3B203A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55244A2A-002A-4804-BE9A-2BE58E3B203A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55244A2A-002A-4804-BE9A-2BE58E3B203A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55244A2A-002A-4804-BE9A-2BE58E3B203A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55244A2A-002A-4804-BE9A-2BE58E3B203A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02252E26-A015-476E-B248-C662E27CA9FE}
+	EndGlobalSection
+EndGlobal

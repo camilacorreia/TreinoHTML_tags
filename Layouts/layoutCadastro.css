@@ -1,0 +1,29 @@
+﻿label {
+    /*https://localhost:44320/Cadastro.html*/
+    display: block;
+    margin-top: 10px;
+}
+/*tamanho dos botoes*/
+input, button {
+    padding: 10px;
+}
+
+input {
+    width: 50%;
+}
+
+    input[type=text] {
+        border: 2px solid aquamarine;
+        border-radius: 4px;
+    }
+
+
+    input[type=button], input[type=submit], input[type=reset] {
+        background-color: aquamarine;
+        border: none;
+        color: black;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 2px 4px;
+        cursor: pointer;
+    }
